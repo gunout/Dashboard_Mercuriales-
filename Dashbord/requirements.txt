@@ -1,0 +1,1 @@
+pip install Flask beautifulsoup4 requests
